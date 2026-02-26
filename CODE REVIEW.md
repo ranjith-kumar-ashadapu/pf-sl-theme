@@ -14,7 +14,7 @@ This report is intentionally descriptive and does not include implementation-lev
 The Mini Carivix repository follows a modular, responsibility-driven structure.  
 Each major functional role in the system has a dedicated directory.
 
-[Repository Folder Structure Overview](https://i.postimg.cc/D0XN6Bmk/Repository-Folder-Structure-Overview.png)
+![Repository Folder Structure Overview](https://i.postimg.cc/D0XN6Bmk/Repository-Folder-Structure-Overview.png)
 
 ### Top-Level Structure
 
