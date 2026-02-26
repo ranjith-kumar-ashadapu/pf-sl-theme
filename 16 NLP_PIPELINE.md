@@ -17,7 +17,7 @@ The NLP stage follows a four-step pipeline:
 3. Dataset-aware entity matching
 4. Time expression extraction
 
-![NLP DATAFLOW PROCESS](<(https://i.postimg.cc/g0Cr57jJ/NLP-PIPELINE.png)>)
+![NLP DATAFLOW PROCESS](https://i.postimg.cc/g0Cr57jJ/NLP-PIPELINE.png)
 
 ---
 
@@ -90,3 +90,4 @@ The NLP stage tracks:
 - System Architecture → `SYSTEM_ARCHITECTURE.md`
 
 - API Reference → `API_REFERENCE.md`
+
